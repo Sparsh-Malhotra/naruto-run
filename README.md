@@ -10,7 +10,7 @@ Import the package and invoke the function to see Naruto run across the
 bottom of your screen.
 
 ```js
-import naruto from 'naruto-run'
+import naruto from '@anime/naruto-run'
 
 naruto()
 ```
@@ -35,7 +35,7 @@ naruto({duration: 200})
 To see Naruto on every page change, subscribe to location changes:
 
 ```js
-import naruto from 'naruto-run'
+import naruto from '@anime/naruto-run'
 import React from 'react'
 import { useLocation } from 'react-router-dom'
 
