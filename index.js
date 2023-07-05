@@ -3,7 +3,7 @@
 require("./index.css");
 
 // hosted courtesy of github
-const narutoSrc = `https://raw.githubusercontent.com/Sparsh-Malhotra/naruto-run/main/naruto.gif`;
+const narutoSrc = `https://raw.githubusercontent.com/Sparsh-Malhotra/naruto-run/master/naruto.gif`;
 
 module.exports = function (options) {
   // get options (defaults set here)
