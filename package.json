@@ -1,5 +1,5 @@
 {
-  "name": "@anime/naruto-run",
+  "name": "anime-naruto-run",
   "version": "1.0.0",
   "description": "An animation library that makes a tiny Naruto run across the bottom of your screen every time a new page loads",
   "main": "index.js",
